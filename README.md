@@ -13,4 +13,4 @@ Here is what I am working on:
 - **Final project report**
 - **Final Project Presentation** 
 
-[Contact Me](alfo8531@gmail.com)
+[Contact Me](mailto:alfo8531@gmail.com)
