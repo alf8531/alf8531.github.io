@@ -9,7 +9,7 @@ I love using technology to solve problems and  enhance my knowledge by using new
 Here is what I am working on:
 
 - **[Final Project Outline](./project-outline.md)**
-- **Final Code** 
+- **Final Project Code** 
 - **Final project report**
 - **Final Project Presentation** 
 
